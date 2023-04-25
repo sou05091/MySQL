@@ -1,0 +1,1 @@
+select concat(NAME, '(',Continent,')', Population,'(',GNP,')') from country order by Name;
